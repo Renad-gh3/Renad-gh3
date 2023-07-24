@@ -1,9 +1,14 @@
-- 👋 Hi, My name is Renad Abdullah
-- 👀 I’m interested in Flutter + Dart 
-- 🌱 I am currently in my infancy as a software engineer
-- 📫Feel free to reach me out Renad.alghamdi.13@gmail.com
+![ software engineer student ](https://i.pinimg.com/564x/50/87/ab/5087abf51d67074f89c87f75a87b096b.jpg)
 
-<!---
-Renad-gh3/Renad-gh3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi there 👋, my name is Renad Abdullah
+####  software engineer student 
+
+A student at the University of Jeddah, interested in Flutter + Dart 
+
+Skills: C++ , JAVA , Flutter 
+
+- 📫 Feel free to reach me out Renad.alghamdi.13@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/renad-alghamdi-621767249/)  
+
