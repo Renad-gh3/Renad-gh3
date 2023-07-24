@@ -7,6 +7,8 @@
 
 -⚡ Skills: C++ , JAVA , Flutter 
 
--📫 Feel free to reach me out Renad.alghamdi.13@gmail.com OR  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/renad-alghamdi-621767249/)  
+-📫 Feel free to reach me out 
+Email : Renad.alghamdi.13@gmail.com 
+Linkedin : [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/renad-alghamdi-621767249/)  
 
 
